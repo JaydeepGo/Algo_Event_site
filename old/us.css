@@ -1,0 +1,25 @@
+.heading{
+	
+	display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    
+    
+    
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+	color:  #f39c12;
+	padding-top: 50px;
+}
+.content{
+	color: white;
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 50px;
+	text-align: center;
+}

@@ -1,0 +1,55 @@
+.container{
+	margin-top: 2vh;
+	width:100%;
+	min-height: 70vh!important;
+}
+
+
+
+.sliderl {
+	left: 2vw;
+    overflow: hidden;
+    display:block;
+    bottom: 25%; 
+    margin:0px ;
+	height:50%;
+    background-color: #fff;
+    width: 3px;
+    transition: height 1s;
+    position: absolute;
+}
+
+div.cover:hover >.sliderl{
+	height: 75%;
+	background-color: #f39c12;
+} 
+
+
+
+
+.sliderr {
+	right: 2vw;
+	
+    overflow: hidden;
+    display:block;
+	top: 25%;
+    margin:0px ;
+    height:50%;
+    background-color: #fff;
+    width: 3px;
+    transition: height 1s;
+    position: absolute;
+}
+
+
+div.cover:hover >.sliderr{
+	height: 75%;
+	background-color: #f39c12;
+} 
+
+.content{
+	color: white;
+	margin-left: 3vw;
+	margin-right: 3vw;
+	font-size: 3vh;
+}

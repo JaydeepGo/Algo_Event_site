@@ -1,0 +1,107 @@
+
+body {
+    background-color: whitesmoke;
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	position: relative;
+	font-size:3vh;
+	
+	
+}
+
+
+
+
+.navbar {
+	min-height:10vh !important;
+	background-color: transparent !important;
+	border-style: none !important;
+	
+}
+
+.navbar-nav > li > a {
+	font-size: 3vh; 
+	padding-top: 4vh!important;
+	text-align: center;
+	letter-spacing: 5px;
+	min-height:11vh !important;
+	border-bottom: .5vh solid #fff;
+}
+.navbar-nav li a:hover {
+    color: #f39c12 !important;
+	border-bottom: .5vh solid #f39c12 ;
+}
+
+
+
+
+
+
+
+footer {
+    
+    
+   	text-align: center;
+    position: relative;
+	margin: 0px;
+	bottom: 3vh;
+    width: 100%;
+    color: white;
+    height: 7vh;
+    
+}
+
+
+.footerbackground {
+    background-color: #333;
+    
+    position: absolute;
+    color: white;
+    width: 100%;
+   	font-size: 3vh;
+    min-height: 7vh!important;
+    
+}
+.fa {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin: 2vh 0px 0px 2vh;
+}
+.fa.fa-facebook:hover{
+	color:#3b5998;
+	text-decoration: none!important;
+}
+.fa.fa-youtube:hover{
+	color: #bb0000;
+	text-decoration: none!important;
+}
+.fa.fa-instagram:hover{
+	color:#8a3ab9;
+	text-decoration: none!important;
+}
+.fa.fa-linkedin:hover{
+	color:#0077B5;
+	text-decoration: none!important;
+}
+.about_us {
+    color: white;
+    text-align: center;
+    text-decoration: none!important;
+    margin: 1.4vh 0px 0px 0px;
+}
+
+.about_us a{
+    color: white;
+    text-align: center;
+    width: 33%;
+    margin-right: 3%;
+}
+.about_us :hover {
+    
+    color:#f39c12;
+    text-decoration: none!important; 
+}

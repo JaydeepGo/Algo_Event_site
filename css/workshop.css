@@ -1,0 +1,27 @@
+.container{
+	min-height: 75vh!important;
+	margin-bottom: 6vh;
+}
+.heading{
+	color: #ffd317;
+	border-bottom: 2px solid white;
+	border-top: 2px solid white;
+	
+}
+.detail{
+	color:#ffd317;
+	text-align: left;
+	margin-top: 2vh;
+}
+.detail h2{
+	text-align: center;
+	background-color: #333;
+	opacity: 0.9;
+}
+.detailmain{
+	background-color: #333;
+	opacity: 0.6;
+	padding: 2vh;
+	
+	
+}
