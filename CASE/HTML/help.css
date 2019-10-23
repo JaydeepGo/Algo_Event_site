@@ -1,0 +1,7 @@
+.input[type=text] {
+    width: 130px;
+    -wewebkit-transition:width 0.4s ease-ing-out;
+    transition:width 0.4s ease-in-out;
+}input[type=text]:focus{
+    width:100%;
+}

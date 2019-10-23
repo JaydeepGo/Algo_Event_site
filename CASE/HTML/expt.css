@@ -1,0 +1,10 @@
+body{
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-size: 52%;
+    background-position: right center;
+    backface-visibility: hidden;
+}
+h2{
+    margin-right: 75%;
+}
